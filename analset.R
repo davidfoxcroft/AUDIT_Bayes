@@ -1,0 +1,17 @@
+refname<-analset_out$refname
+refvarname<-analset_out$refvarname
+testname<-analset_out$testname
+testvarname<-analset_out$testvarname
+prevest<-analset_out$prevest
+gender<-analset_out$gender
+agegrp<-analset_out$agegrp
+prevdata<-analset_out$prevdata
+datasetname<-analset_out$datasetname
+path<-analset_out$path
+pathout<-analset_out$pathout
+scoremin<-as.numeric(analset_out$scoremin)
+scoremax<-as.numeric(analset_out$scoremax)
+cutrange_default<-as.numeric(analset_out$cutrange_default)
+distribution<-as.numeric(analset_out$distribution)
+it<-as.numeric(analset_out$it)
+nprob<-as.numeric(analset_out$nprob)
